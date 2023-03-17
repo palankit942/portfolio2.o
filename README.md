@@ -1,5 +1,5 @@
 # Personal Portfolio
-
+![portfolio](C:\Users\palan\Desktop\portfolio\portfolio.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
