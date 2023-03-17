@@ -1,5 +1,6 @@
 # Personal Portfolio
-
+	
+![alt text](https://github.com/palankit942/portfolio2.o/blob/master/portfolio.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
